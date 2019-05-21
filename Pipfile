@@ -4,8 +4,12 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+pandas = "*"
 
 [dev-packages]
+jupyterlab = "*"
+black = "==19.3b0"
+sklearn = "*"
 
 [requires]
 python_version = "3.7"

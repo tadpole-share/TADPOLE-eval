@@ -2,14 +2,9 @@
 *.csv
 *~
 *.zip
-evaluation/leaderboard_table.html
 *#
 *__pycache__
 .idea/
 *.bck
-evaluation/leaderboardSubmissions/
-TADPOLE_SimpleForecastFPC01_Leaderboard.m
-TADPOLE_SimpleForecastFPC02_Leaderboard.m
-TADPOLE_SimpleForecastFPC03_Leaderboard.m
-evaluation/cronLog.txt
-
+data/
+examples/IntermediateData/
